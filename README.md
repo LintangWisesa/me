@@ -1,5 +1,9 @@
 ![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
 
+### About me:
+
+👨‍🎓 https://lintangwisesa.github.io/me/
+
 #
 
 #### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
