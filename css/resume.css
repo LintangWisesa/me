@@ -29,6 +29,10 @@ h6 {
   color: black;
 }
 
+h2.title{
+  color: rgb(16, 110, 168);
+}
+
 h1 {
   font-size: 6rem;
   line-height: 5.5rem;
