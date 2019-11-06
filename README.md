@@ -2,7 +2,7 @@
 
 ### About me:
 
-🤖 Lintang Wisesa 🌏 https://lintangwisesa.github.io/me/
+🤖 Lintang Wisesa 🌏 [bit.ly/linbio](https://lintangwisesa.github.io/me/)
 
 #
 
